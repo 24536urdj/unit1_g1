@@ -1,7 +1,6 @@
 # Crypto Wallet
 
-![](22ROOSE-master768.gif)  
-<sub>Illustration for Glenn Harvey</sub>
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fbermuda-confirms-crypto-hub-ambitions-despite-market  downturn&psig=AOvVaw2ScZtOa3PGt26W2V-yHncD&ust=1665136779123000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKi4mYisy_oCFQAAAAAdAAAAABAN)
 
 # Criteria A: Planning
 
