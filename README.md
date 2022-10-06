@@ -1,7 +1,6 @@
 # Crypto Wallet
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fbermuda-confirms-crypto-hub-ambitions-despite-market  downturn&psig=AOvVaw2ScZtOa3PGt26W2V-yHncD&ust=1665136779123000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKi4mYisy_oCFQAAAAAdAAAAABAN)
-
+![](3be4e055dccf9220ab0d3d9f452f789f)
 # Criteria A: Planning
 
 ## Problem definition
